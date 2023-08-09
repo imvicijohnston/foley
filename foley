@@ -1,0 +1,632 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <base href="https://www.foley.com/en/insights/blogs/health-care-law-today" />
+    <meta name="google-site-verification" content="fkLRU5lMzuZzW8HLB3GQ9VUsoAHIotS0cWBJUQBgF5Y" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Health Care Law Today | Insights | Foley &amp; Lardner LLP</title>
+
+<meta name="title" content="Health Care Law Today | Insights | Foley &amp; Lardner LLP" />
+<meta name="robots" content="index,follow" />
+<meta name="description" content="Health Care Law Today is your resource for information on the latest developments and trends in health care law, and how it impacts the industry." />
+<meta name="keywords" content="" />
+
+<meta name="oni_section" content="other" />
+<meta name="oni_name" content="Health Care Law Today | Insights | Foley &amp; Lardner LLP" />
+
+<meta property="og:url" content="https://www.foley.com/en/insights/blogs/health-care-law-today" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Health Care Law Today | Insights | Foley &amp; Lardner LLP" />
+<meta property="og:description" content="" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="twitter">
+<meta name="twitter:title" content="Health Care Law Today | Insights | Foley &amp; Lardner LLP">
+<meta name="twitter:description" content="">
+
+
+
+    <link rel="canonical" href="https://www.foley.com/en/insights/blogs/health-care-law-today" />
+
+        <link rel='alternate' hreflang='x-default' href='https://www.foley.com/en/insights/blogs/health-care-law-today' />
+    <link rel='alternate' hreflang='en' href='https://www.foley.com/en/insights/blogs/health-care-law-today' />
+
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+    
+
+
+
+
+
+
+
+
+    <!-- OneTrust Cookies Consent Notice start for foley.com -->
+    <script type="text/javascript" src="https://cdn.cookielaw.org/consent/8b553999-6e2f-4ad4-a971-3676b9167e38-test/OtAutoBlock.js"></script>
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="8b553999-6e2f-4ad4-a971-3676b9167e38-test"></script>
+    <script type="text/javascript">
+        function OptanonWrapper() { }
+    </script>
+    <!-- OneTrust Cookies Consent Notice end for foley.com -->
+
+    
+    <link href="/assets/css/v-638162230843635689/main.css" rel="stylesheet">
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WSZZGNK');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- 6sense Trial -->
+    <script>
+        window._6si = window._6si || [];
+        window._6si.push(['enableEventTracking', true]);
+        window._6si.push(['disableCookies', true]);
+        window._6si.push(['setToken', 'd949e6b83557093d49187587eac2eadf']);
+        window._6si.push(['setEndpoint', 'b.6sc.co']);
+
+        (function () {
+            var gd = document.createElement('script');
+            gd.type = 'text/javascript';
+            gd.async = true;
+            gd.src = '//j.6sc.co/6si.min.js';
+
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gd, s);
+        })();
+    </script>
+    <!-- 6sense Trial -->
+
+    
+</head>
+
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSZZGNK"
+                    height="0" width="0" style="display:none;visibility:hidden">
+            </iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <div class="app" id="app">
+            
+
+<!--stopindex-->
+<div is="navbar" inline-template>
+    <header class="navbar">
+        <div class="navbar__secondary container">
+            <div class="navbar__secondary-links">
+                    <a class="navbar__secondary-link" href="/en/about-us" target="_self" rel="">About Us</a> 
+                    <a class="navbar__secondary-link" href="/en/offices" target="_self" rel="">Offices</a> 
+                    <a class="navbar__secondary-link" href="/en/careers" target="_self" rel="">Careers</a> 
+                    <a class="navbar__secondary-link" href="/en/general/foley-blogs-and-podcasts" target="_self" rel="">Blogs &amp; Podcasts</a> 
+            </div>
+            <div is="typeahead" 
+                 inline-template
+                 v-bind:gettypeaheadresults="getTypeaheadResults"
+                 v-bind:resultselecthandler="doTypeaheadSearch"
+                 v-bind:submithandler="doTypeaheadSearch"
+                 v-bind:issearchopen="isSearchOpen"
+                 v-bind:isnavlocked="isNavLocked">
+                <div class="filter-search__typeahead-container" v-on:keydown.down.prevent="handleDownKey" v-on:keydown.up.prevent="handleUpKey" v-on:keydown.esc="clearResults">
+                    <input class="navbar__desktop-search-input" 
+                           ref="search"
+                           type="text" 
+                           placeholder="Search" 
+                           aria-label="Search" 
+                           v-bind:value="model"
+                           v-on:input="model = $event.target.value"
+                           v-on:keyup.enter="handleEnter" 
+                           v-on:blur="handleBlur"
+                           v-bind:class="{ 'navbar__desktop-search-input--open': issearchopen, 'navbar__desktop-search-input--hidden': isnavlocked }"/>
+                    <ul class="filter-search__typeahead-results filter-search__typeahead-results--nav" v-if="issearchopen && typeaheadResults && typeaheadResults.LinkResults" v-cloak>
+                        <li v-for="result in typeaheadResults.LinkResults" class="filter-search__typeahead-result">
+                            <button class="filter-search__result-trigger" ref="result" v-on:blur="handleBlur" v-html="result.Name" v-on:click="handleFilterSelection(result.Name, result.Url)"></button>
+                        </li>
+                        <li class="filter-search__typeahead-result">
+                            <button class="filter-search__result-trigger filter-search__result-trigger--view-all" ref="result" v-on:blur="handleBlur" v-html="typeaheadResults.ViewAllLabel" v-on:click="handleEnter()"></button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <button class="navbar__search" 
+                    v-on:click="toggleSearch()" 
+                    v-bind:class="{ 'navbar__search--open': isSearchOpen }">
+            </button>
+        </div>
+
+        <div class="navbar__wrapper">
+            <div class="navbar__primary container" v-bind:class="{ 'navbar__primary--nav-locked': isNavLocked }">
+                <a href="https://www.foley.com/en">
+                    <img src="/assets/images/Foley-LLP-Blue-160x60.jpg" alt="Foley &amp; Lardner LLP" class="navbar__logo" />
+                </a>
+
+                <div class="navbar__primary-links">
+                        <a class="navbar__primary-link "
+                           v-bind:class="{ 'navbar__primary-link--search-open': isSearchOpen && isNavLocked }"
+                           href="/en/services/practice-areas"
+                           target="_self"
+                           rel="">
+                            Practice Areas
+                        </a>
+                        <a class="navbar__primary-link "
+                           v-bind:class="{ 'navbar__primary-link--search-open': isSearchOpen && isNavLocked }"
+                           href="/en/services/industry-teams"
+                           target="_self"
+                           rel="">
+                            Sectors
+                        </a>
+                        <a class="navbar__primary-link "
+                           v-bind:class="{ 'navbar__primary-link--search-open': isSearchOpen && isNavLocked }"
+                           href="/en/people"
+                           target="_self"
+                           rel="">
+                            People
+                        </a>
+                        <a class="navbar__primary-link navbar__primary-link--is-active"
+                           v-bind:class="{ 'navbar__primary-link--search-open': isSearchOpen && isNavLocked }"
+                           href="/en/insights"
+                           target="_self"
+                           rel="">
+                            Insights
+                        </a>
+                    <div is="typeahead"
+                         inline-template
+                         v-bind:gettypeaheadresults="getTypeaheadResults"
+                         v-bind:resultselecthandler="doTypeaheadSearch"
+                         v-bind:submithandler="doTypeaheadSearch"
+                         v-bind:issearchopen="isSearchOpen"
+                         v-bind:isnavlocked="isNavLocked">
+                        <div class="filter-search__typeahead-container" v-on:keydown.down.prevent="handleDownKey" v-on:keydown.up.prevent="handleUpKey" v-on:keydown.esc="clearResults">
+                            <input class="navbar__desktop-search-input navbar__search-scroll-input"
+                                   type="text"
+                                   ref="search"
+                                   placeholder="Search"
+                                   aria-label="Search"
+                                   v-bind:value="model"
+                                   v-on:input="model = $event.target.value"
+                                   v-on:keyup.enter="handleEnter"
+                                   v-on:blur="handleBlur"
+                                   v-bind:class="{ 'navbar__search-scroll-input--open': issearchopen, 'navbar__search-scroll-input--visible': isnavlocked }"  />
+                            <ul class="filter-search__typeahead-results filter-search__typeahead-results--nav" v-if="issearchopen && typeaheadResults && typeaheadResults.LinkResults" v-cloak>
+                                <li v-for="result in typeaheadResults.LinkResults" class="filter-search__typeahead-result">
+                                    <button class="filter-search__result-trigger" ref="result" v-on:blur="handleBlur" v-html="result.Name" v-on:click="handleFilterSelection(result.Name, result.Url)"></button>
+                                </li>
+                                <li class="filter-search__typeahead-result">
+                                    <button class="filter-search__result-trigger filter-search__result-trigger--view-all" ref="result" v-on:blur="handleBlur" v-html="typeaheadResults.ViewAllLabel" v-on:click="handleEnter()"></button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <button class="navbar__search navbar__search-scroll" 
+                            v-on:click="toggleSearch()" 
+                            v-bind:class="{ 'navbar__search--open': isSearchOpen, 'navbar__search-scroll--visible': isNavLocked }">
+                    </button>
+                </div>
+
+                <div class="navbar__menu" v-bind:class="{ 'navbar__menu--visible': isMenuOpen || isSearchOpen }">
+                    <div class="navbar__menu-primary-links" v-bind:class="{ 'navbar__menu-primary-links--visible': isMenuOpen }">
+                            <a class="navbar__menu-primary-link" href="/en/services/practice-areas" target="_self" rel="">Practice Areas</a>
+                            <a class="navbar__menu-primary-link" href="/en/services/industry-teams" target="_self" rel="">Sectors</a>
+                            <a class="navbar__menu-primary-link" href="/en/people" target="_self" rel="">People</a>
+                            <a class="navbar__menu-primary-link" href="/en/insights" target="_self" rel="">Insights</a>
+                    </div>
+
+                    <div class="navbar__menu-secondary-links" v-bind:class="{ 'navbar__menu-secondary-links--visible': isMenuOpen }">
+                            <a class="navbar__menu-secondary-link" href="/en/about-us" target="_self" rel="">About Us</a>
+                            <a class="navbar__menu-secondary-link" href="/en/offices" target="_self" rel="">Offices</a>
+                            <a class="navbar__menu-secondary-link" href="/en/careers" target="_self" rel="">Careers</a>
+                            <a class="navbar__menu-secondary-link" href="/en/general/foley-blogs-and-podcasts" target="_self" rel="">Blogs &amp; Podcasts</a>
+                    </div>
+
+                    <div class="navbar__search-wrapper" v-bind:class="{ 'navbar__search-wrapper--visible': isSearchOpen || isMenuOpen }">
+                        <div class="navbar__searchbar">
+                            <div class="navbar__search-container" role="search">
+                                <input class="navbar__search-input"
+                                       placeholder="Search" 
+                                       aria-label="Search"
+                                       v-bind:value="keyword"
+                                       v-on:input="keyword = $event.target.value"
+                                       v-on:keyup.enter="doSearch" />
+                                <button class="icon icon__search navbar__search-button" v-on:click="doSearch"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="navbar__icons">
+                    <button class="icon icon__search navbar__mobile-search" v-on:click="openSearch()" v-bind:class="{ 'navbar__mobile-search--hidden': isSearchOpen || isMenuOpen }"></button>
+                    <button class="icon icon__close navbar__close" v-on:click="closeSearch()" v-bind:class="{ 'navbar__close--visible': isSearchOpen && !isMenuOpen }"></button>
+                    <button class="icon icon__hamburger navbar__hamburger" v-on:click="openMenu()" v-bind:class="{ 'navbar__hamburger--hidden': isMenuOpen }"></button>
+                    <button class="icon icon__close navbar__close" v-on:click="closeMenu()" v-bind:class="{ 'navbar__close--visible-pad': isMenuOpen }"></button>
+                </div>
+            </div>
+        </div>
+    </header>
+</div>
+<!--startindex-->
+
+<!--stopindex-->
+<div is="breadcrumbs" inline-template="inline-template">
+    <div class="breadcrumbs container">
+        <div class="breadcrumbs__crumbs">
+                <a class="breadcrumbs__crumb" href="/en">Home</a>
+                <a class="breadcrumbs__crumb" href="/en/insights">Insights</a>
+            <span class="breadcrumbs__crumb breadcrumbs__crumb--current">Health Care Law Today</span>
+        </div>
+            <div class="breadcrumbs__small-screen">
+                <a class="breadcrumbs__crumb" href="/en/insights">See Insights</a>
+            </div>
+     
+        <div class="breadcrumbs__tools">
+                        <div class="breadcrumbs__share-container" v-bind:class="{ 'breadcrumbs__share-container--open': areShareToolsOpen }">
+        <a class="breadcrumbs__tool icon icon__linkedin" 
+           aria-label="LinkedIn" 
+           href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.foley.com/en/insights/blogs/health-care-law-today" 
+           target="_blank" 
+           rel="noreferrer">
+        </a>
+        <a class="breadcrumbs__tool icon icon__twitter" 
+           aria-label="Twitter" 
+           href="https://twitter.com/intent/tweet?url=https://www.foley.com/en/insights/blogs/health-care-law-today" 
+           target="_blank" 
+           rel="noreferrer">
+        </a>
+        <a class="breadcrumbs__tool icon icon__facebook" 
+           aria-label="Facebook" 
+           href="https://www.facebook.com/sharer/sharer.php?u=https://www.foley.com/en/insights/blogs/health-care-law-today" 
+           target="_blank" 
+           rel="noreferrer">
+        </a>
+        <a class="breadcrumbs__tool icon icon__mail" 
+           aria-label="Email" 
+           href="mailto:?&amp;subject=The%20following%20information%20has%20been%20shared%20via%20Foley.com%3A&amp;body=https://www.foley.com/en/insights/blogs/health-care-law-today%0d%0a%0d%0a" 
+           target="_self" 
+           rel="">
+        </a>
+</div>
+<button class="breadcrumbs__tool breadcrumbs__tool--share" v-on:click="openTools()" aria-label="Share"
+        v-bind:class="{ 'breadcrumbs__tool--share--hidden': areShareToolsOpen }">Share
+</button>
+<button class="breadcrumbs__tool breadcrumbs__tool--share-close" v-on:click="closeTools()"
+        aria-label="Close"
+        v-bind:class="{ 'breadcrumbs__tool--share-close--visible': areShareToolsOpen }">Close
+</button>
+
+            <a class="breadcrumbs__tool breadcrumbs__tool--rss" href="/en/insights/blogs/health-care-law-today?format=rss">
+                <span class="icon icon__rss"></span>
+            </a>
+        </div>
+    </div>
+</div>
+<!--startindex-->
+
+
+
+    <!--stopindex-->
+    <div class="page-hero__wrapper">
+            <div class="page-hero page-hero--vid" style="background-image: url('/-/media/images/blogs/health-care-law-today/healthcarebanner992x250.jpg?rev=9cca5c58e6ad494a8b268d56eaa9c8ef')">
+                <video preload="none" playsinline autoplay muted loop id="bgvid">
+                    <source data-lazy-video="/-/media/video/blog-landing/20mc29838-health-care-law-today_1.mp4?rev=752963e113eb4060b665a35f2f66ce11" type="video/mp4">
+                </video>
+                <div class="container">
+                    <div class="page-hero__brand"></div>
+                    <h1 class="page-hero__title">Health Care Law Today</h1>
+                </div>
+            </div>
+    </div>
+    <!--startindex-->
+
+
+    <div class="section__list">
+                    <div class="section container container--small">
+                        
+
+
+
+    <div class="blog-header">
+        <div class="blog-header__wrapper">
+                <div class="blog-header__left-col">
+                    <div class="blog-header__intro body-copy"><p><strong>Welcome to Foley&rsquo;s <em>Health Care Law Today</em>!<br />
+</strong>Health Care Law Today is your go-to resource for information and perspectives on the latest developments and trends in health care law, and how it relates and impacts those within and around the industry.</p>
+<p>Subscribe to <em>this blog by entering your contact information</em>&nbsp;to the right.</p>
+<p><strong>Introducing the <em>Health Care Law Today Podcast<br />
+</em></strong>In addition to the written blogs, we are thrilled to announce the launch of the Health Care Law Today Podcast: your connection to timely health care legal updates. Each episode will feature a Foley Health Care attorney interviewing an industry thought leader on current legal trends. Follow this link for our <a href="/insights/blogs/health-care-law-today?topic=5bc5ebad6d8244229478d80258bf63e9">most recent episodes</a>.&nbsp;</p>
+<p>
+</p>
+<p>Subscribe and listen today by selecting your preferred channel:</p>
+<p style="text-align: center;">
+<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://podcasts.apple.com/us/podcast/health-care-law-today-podcast/id1460841843" target="_blank"><img height="60" alt="Apple Podcasts" width="233" src="/-/media/images/blogs/health-care-law-today/podapple.gif?la=en&rev=5c8a2bdf808f463197da33ed9539931a" /></a>&nbsp;<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5ibHVicnJ5LmNvbS9mZWVkcy9oZWFsdGhjYXJlbGF3dG9kYXlwb2RjYXN0LnhtbA%3D%3D" target="_blank"><img height="59" alt="Google Podcasts" width="233" src="/-/media/images/blogs/health-care-law-today/podgoogle.gif?la=en&rev=cca03075bfaf4e84a09382b06ab27dd2" /></a>&nbsp;<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://tunein.com/podcasts/Science-Podcasts/Health-Care-Law-Today-Podcast-p1220060/" target="_blank"><img height="60" alt="Tune In" width="233" src="/-/media/images/blogs/health-care-law-today/podlistenin.gif?la=en&rev=06c6294bee8e4854bf726980a98b79f3" /></a>&nbsp;<a rel="noopener noreferrer" rel="noopener noreferrer" href="https://www.stitcher.com/podcast/jeremy-corr/health-care-law-today-podcast?refid=stpr" target="_blank"><img height="70" alt="Stitcher Podcasts" width="233" src="/-/media/images/blogs/health-care-law-today/podstitcher.gif?h=70&amp;w=233&amp;la=en&rev=97ca48e2f7ac49669a631222529b644d" style="height: 70px; width: 233px;" /></a><a rel="noopener noreferrer" rel="noopener noreferrer" href="https://open.spotify.com/show/4asbkLXj46mW2c5kUu0iDa" target="_blank"><img alt="Spotify Podcasts" src="/-/media/images/blogs/health-care-law-today/podspotify.gif?h=79&amp;w=233&amp;la=en&rev=e75cb9267b104ad99dd20e5e25d8cbdb" style="height: 79px; width: 233px;" /></a></p></div>
+                </div>
+                            <!--stopindex-->
+                <div class="blog-header__right-col">
+                    <div class="blog-subscribe">
+                        <h3 class="blog-subscribe__title">Subscribe to This Blog</h3>
+                        <div class="blog-subscribe__rss">
+                            <a href="/en/insights/blogs/health-care-law-today?format=rss" target="_blank" rel="noreferrer">
+                                <i class="icon icon__rss"></i>
+                                <span>Via RSS</span>
+                            </a>
+                        </div>
+                                                <div class="blog-subscribe__iframe">
+                            <iframe height="300" src="https://surveys.concep.com/s/24a3ea2c4e045dd41072d0696925551924827659?frame=1">View Survey</iframe>
+<a href="/en/insights/news/2022/11/foley-rankings-2023-us-news-best-law-firms"><img alt="Foley Named U.S. News - Best Lawyers &quot;Law Firm of the Year&quot; in Health Care Law" src="/-/media/images/sectors/graphics/hc-law-firm-of-the-year-2023.jpg?h=100%25&amp;w=100%25&amp;la=en&amp;rev=855f6a909d164c2c837cec555fe3c0cd" style="height: 100%; width: 100%; margin-bottom: 10px; margin-left: 10px;" /></a>
+                        </div>
+                    </div>
+                </div>
+                <!--startindex-->
+        </div>
+        <div class="divider"></div>
+    </div>
+
+                    </div>
+                    <div class="section container container--small">
+                        <!--stopindex-->
+<div is="blog-post-list" inline-template
+     v-bind:page-size="8"
+     v-bind:initial-results="[{&quot;Title&quot;:&quot;DEA: Potential New Telemedicine Special Registration for Controlled Substances Prescribing to be Discussed in Special Listening Sessions&quot;,&quot;Date&quot;:&quot;08 August 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/08/dea-new-telemedicine-special-registration&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/telepharmacy860x360.jpg?rev=b6596b9121324a6bae0f5f44c8ce13ca&quot;,&quot;Description&quot;:&quot;At long last, the Drug Enforcement Administration has signaled its consideration of a separate Special Registration for telemedicine prescribing for patients without requiring an in-person examination. &quot;,&quot;Authors&quot;:&quot;Nathan A. Beaver, Caitlin N. Otis, Thomas B. Ferrante&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;Regulatory Alert: DEA’s New Controlled Substance Theft or Loss Rule Includes a New Deadline and May Require Changes to Corporate Compliance Systems&quot;,&quot;Date&quot;:&quot;07 August 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/08/dea-new-controlled-substance-theft-loss-rule&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/pills860x360.jpg?rev=85a95d5e896e47e98d7ac68e826ab97a&quot;,&quot;Description&quot;:&quot;On July 24, 2023, a new final rule from the Drug Enforcement Administration became effective, with important consequences for companies and individuals registered to manufacture, distribute, or dispense controlled substances.&quot;,&quot;Authors&quot;:&quot;Katy E. Koski, Gregory N. Heinen, Graham D. Welch&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;Episode 27: Subsidy Arrangements Between Hospitals and Physician Practices: What You Should Know&quot;,&quot;Date&quot;:&quot;31 July 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/subsidy-arrangements-hospitals-physician-practices&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/hospitalsystem860x360.jpg?rev=51c59f7689204b4f9561e6ce1785bb4e&quot;,&quot;Description&quot;:&quot;In this episode, partner Jana Kolarik of Foley’s Health Care Practice Group, and Angie Caldwell, Consulting Principal and Tampa’s Office Managing Principal of PYA, discuss subsidy arrangements between hospitals, health care systems, and physician practices.&quot;,&quot;Authors&quot;:&quot;Jana L. Kolarik&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;Decentralized Clinical Trials: Investigator Responsibilities&quot;,&quot;Date&quot;:&quot;26 July 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/decentralized-clinical-trials-investigator&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/telemedsun860x360.jpg?rev=0f7c50f2542f456db5893f759a7a5631&quot;,&quot;Description&quot;:&quot;In the second edition of our blog series on decentralized clinical trials, we address U.S. Food and Drug Administrations’ expectations of investigators articulated in the recently released draft guidance.&quot;,&quot;Authors&quot;:&quot;Kyle Y. Faget, Monica R. Chmielewski&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;CMS Proposes Remedy for 340B-Acquired Drug Payment Policy for CY 2018-2022&quot;,&quot;Date&quot;:&quot;26 July 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/cms-remedy-340b-acquired-drug-payment-policy&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/hospitalview860x360.jpg?rev=1d240ace49b2445b97be7702a4daae7b&quot;,&quot;Description&quot;:&quot;Along with its calendar year 2024 Medicare Outpatient Prospective Payment System proposed rule, the Centers for Medicare &amp; Medicaid Services have also published the long-awaited proposal to remediate the violations that arose from Medicare’s rate cuts for 340B drugs dispensed by 340B hospitals from January 1, 2018 through September 27, 2022.&quot;,&quot;Authors&quot;:&quot;Anil Shankar, Stephanie J. Schwartz&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;HRSA Uninsured Program Covid-19 Services: OIG Audit Finds HRSA Paid for Claims that did not Comply with Federal Requirements &quot;,&quot;Date&quot;:&quot;24 July 2023&quot;,&quot;Info&quot;:&quot;Health Care Law Today&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/hrsa-uninsured-program-covid-19-services-oig-audit&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/healthcareaudit860x360.jpg?rev=eda4d0622b5543dd8d36f79dfeb7708e&quot;,&quot;Description&quot;:&quot;On July 13, 2023 the Office of Audit Services of the Department of Health &amp; Human Services Office of Inspector General released the long-awaited audit of the Health Resources and Services Administration Uninsured Program. &quot;,&quot;Authors&quot;:&quot;Olivia Benjamin (King), Judith A. Waltz&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;Changing Landscape: Federal and State Regulators Focus on Protecting Consumer Health Data&quot;,&quot;Date&quot;:&quot;20 July 2023&quot;,&quot;Info&quot;:&quot;Innovative Technology Insights&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/fed-state-regulators-consumer-health-data&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/telemeddtc860x360.jpg?rev=9ae76530213e409689aa3b41693194fc&quot;,&quot;Description&quot;:&quot;With regulators moving to expand the scope of existing consumer health data protections, our article analyzes recent changes by Washington, Nevada, Connecticut, and the FTC. &quot;,&quot;Authors&quot;:&quot;Jennifer L. Urban&quot;,&quot;HasDetailPage&quot;:true},{&quot;Title&quot;:&quot;IP Toolbox Is Crucial In AI-Powered Drug Discovery&quot;,&quot;Date&quot;:&quot;19 July 2023&quot;,&quot;Info&quot;:&quot;Innovative Technology Insights&quot;,&quot;Url&quot;:&quot;/en/insights/publications/2023/07/ip-toolbox-crucial-ai-powered-drug-discovery&quot;,&quot;Type&quot;:&quot;Blog&quot;,&quot;Image&quot;:&quot;/-/media/images/blogs/health-care-law-today/clinicaltrials860x360.jpg?rev=7b648d7d5fe94da9b9c1045944d2d3cf&quot;,&quot;Description&quot;:&quot;This article provides an overview of IP considerations for entities engaging in drug discovery, the benefits and challenges of leveraging AI/ML technology for this purpose, and how to handle breakthroughs that result from collaborations between companies in this space. &quot;,&quot;Authors&quot;:&quot;Sonal Agarwal, Shabbi S. Khan&quot;,&quot;HasDetailPage&quot;:true}]"
+     total="963"
+     category=""
+     categoryname=""
+     blog-url="https://www.foley.com/en/insights/blogs/health-care-law-today"
+     endpoint="/api/Insights/InsightSearch"
+     entity="cfe74c6a-e985-4401-acd5-de1f1f65bc0f"
+     >
+    <div class="article-list__section">
+        <div class="article-list__blog-filters">
+            <div class="article-list__advance-filter article-list__advance-filter--blogs">
+                <div class="article-list__select article-list__select--blogs">
+                    <select v-bind:value="category"
+                            v-on:change="updateTopic($event.target)"
+                            v-bind:class="{ 'select--active': getTopic() }"
+                            aria-label="Filter by topic">
+                        <option value="">Filter by topic</option>
+                            <option value="7e158bf50fb24e8388d2096fdc3ddc3a">Anti-Kickback</option>
+                            <option value="7bbfb2bd069f4b76b3534e29f4c62c01">Centers for Medicare and Medicaid Services</option>
+                            <option value="9bf8f9c4b90c42ba8d34d32d737fffa9">Clinical Trials</option>
+                            <option value="c28778193e1c47c49fadb7155491f5af">Compliance</option>
+                            <option value="cd31a0cb1c9f478eaf2e6cd40a3f7085">Decentralized Clinical Trials</option>
+                            <option value="7a0e8835142b4320906b765f6820bc2c">Fraud &amp; Abuse</option>
+                            <option value="2753821d2b014871af1499a5cf488ec3">Health Care</option>
+                            <option value="695e86ac2bb44bdfa96a09b8e7062ffa">Health Care Cost Containment</option>
+                            <option value="899bd4dd224a4f9cbdb35308a715c889">Labor &amp; Employment</option>
+                            <option value="6dc1ba4d16ba4fd898087ac5ec9c5559">Litigation</option>
+                            <option value="46ed2cbf7abf440ba4dae0495613fe0e">Oncology</option>
+                            <option value="9c41837494254c0f88bb7d292397132e">Payer</option>
+                            <option value="23fe1f24ea8f4fbd9c5a7aadaef57598">Personalized Medicine</option>
+                            <option value="6ebb5957db3e46258134e677aa869572">Pharma and Med Device Litigation</option>
+                            <option value="5bc5ebad6d8244229478d80258bf63e9">Health Care Law Today Podcast</option>
+                            <option value="6b53ee0fd7d14ea28be151cc440f62fc">Policy</option>
+                            <option value="83293478483f47a8a990393588addb95">Provider</option>
+                            <option value="840fc4cde3af4cc9b5e03b4b9112a4d3">Reform</option>
+                            <option value="6b51ebc228984916a7092af93c4dbf7b">Regulatory Developments</option>
+                            <option value="e17a634794924d56810dcc7732798b19">Reimbursements</option>
+                            <option value="e9f9367dcff448cfbd89e4b75b97bd65">Senior Living</option>
+                            <option value="e6bc82b0c21d43f2b8d1279c3b87d269">Software as a Medical Device</option>
+                            <option value="40783636aa7f4724b4f9cb858c106b77">Stark</option>
+                            <option value="8e886548c1d84625aeb54b6dcb44d0b3">Telemedicine &amp; Digital Health</option>
+                            <option value="4cf09eeb56b049e590f8ade5e003c6de">Transactions</option>
+                            <option value="7e7d43356ab9489e944616abc6a5aaf5">Uncategorized</option>
+                            <option value="74712c367012461ba46ae19b49be2723">Value-Based Care</option>
+                    </select>
+                </div>
+            </div>
+            <div  id="blog-results" class="filter-search__search-bar">
+                <input class="filter-search__input filter-search__keyword-search"
+                       placeholder="Search by Keyword"
+                       v-bind:value="keyword"
+                       v-on:input="keyword = $event.target.value"
+                       v-on:keyup.enter="performNewSearch()" />
+                <div class="filter-search__search-buttons">
+                    <button class="filter-search__search" v-on:click="performNewSearch()">Search</button>
+                </div>
+            </div>
+        </div>
+        <div class="filter-search__active-filter-container filter-search__active-filter-container--blogs" v-show="(category || keywordFilter) && results">
+            <div class="filter-search__results-info">
+                <div class="filter-search__active-filters">
+                    <div v-show="keywordFilter"
+                         v-html="keywordFilter"
+                         v-on:click="clearKeyword()"
+                         class="filter-search__active-filter">
+                    </div>
+                    <div v-show="category"
+                         v-html="categoryName"
+                         v-on:click="clearTopic()"
+                         class="filter-search__active-filter">
+                    </div>
+                </div>
+                <div class="filter-search__clear-all" v-on:click="clearAll()">Clear All</div>
+            </div>
+        </div>
+        <div  class="article-list__blog-item-container">
+            <blog-entity v-for="blog in results" v-bind:article="blog">
+
+            </blog-entity>
+        </div>
+
+        <button class="view-more" v-if="hasMore" v-on:click="loadMore()">
+            <span class="view-more--more-label">View More</span>
+        </button>
+        <div class="article-list__no-results" v-show="total == 0">
+            <p>No Results</p>
+        </div>
+    </div>
+</div>
+<!--startindex-->
+                    </div>
+                    <div class="section container container--small">
+                            <!--stopindex-->
+                            <div id="Primary Contacts"></div>
+                            <h2 class="page__section-heading">Primary Contacts</h2>
+                            <!--startindex-->
+                        
+<!--stopindex-->
+<div class="contact-list">
+            <div class="contact-list__wrapper">
+                <div class="contact-list__contact">
+                    <div class="contact-list__image" style="background-image: url(/-/media/images/people/w/waltz-judith-a/lowresolutionimage/04773.jpg?rev=be26a5b6d9514b6e9ce76ceec240de4c);"></div>
+                    <div class="contact-list__print-img">
+                        <img src="/-/media/images/people/w/waltz-judith-a/lowresolutionimage/04773.jpg?rev=be26a5b6d9514b6e9ce76ceec240de4c" />
+                    </div>
+                    <a href="/en/people/w/waltz-judith-a">
+                        <h4 class="contact-list__name">Judith A. Waltz</h4>
+                    </a>
+                    <div class="contact-list__title">Partner</div>
+                    <a href="mailto:jwaltz@foley.com" class="contact-list__email">jwaltz@foley.com</a>
+                </div>
+                <div class="contact-list__contact">
+                    <div class="contact-list__image" style="background-image: url(/-/media/images/people/k/king-olivia/lowresimage/king-olivia24874.jpg?rev=22ce6e9183cc4ca197b684338e2bcc6f);"></div>
+                    <div class="contact-list__print-img">
+                        <img src="/-/media/images/people/k/king-olivia/lowresimage/king-olivia24874.jpg?rev=22ce6e9183cc4ca197b684338e2bcc6f" />
+                    </div>
+                    <a href="/en/people/k/king-olivia-r">
+                        <h4 class="contact-list__name">Olivia Benjamin (King)</h4>
+                    </a>
+                    <div class="contact-list__title">Associate</div>
+                    <a href="mailto:obenjamin@foley.com" class="contact-list__email">obenjamin@foley.com</a>
+                </div>
+            </div>
+    </div>
+<!--startindex-->
+
+                    </div>
+                    <div class="section container container--small">
+                            <!--stopindex-->
+                            <div id="Related Services"></div>
+                            <h2 class="page__section-heading">Related Services</h2>
+                            <!--startindex-->
+                        
+<!--stopindex-->
+<div class="section__content">
+    <div class="tag-section">
+        <div class="tag-section__section">
+            <div class="tag-section__label">Sectors</div>
+            <div class="tag-section__tags">
+                    <a href="/en/services/industry-teams/health-care-life-sciences/telemedicine--digital-health" class="tag-section__link">Telemedicine &amp; Digital Health</a>
+            </div>
+        </div>
+                <div class="tag-section__section">
+            <div class="tag-section__label">Practice Areas</div>
+            <div class="tag-section__tags">
+                    <a href="/en/services/practice-areas/corporate/health-care" class="tag-section__link">Health Care</a>
+                    <a href="/en/services/practice-areas/corporate/health-care/health-care-regulatory" class="tag-section__link">Health Care Regulatory</a>
+                    <a href="/en/services/practice-areas/corporate/health-care/health-care-transactions/postacute-care--senior-housing" class="tag-section__link">Post-Acute Care &amp; Senior Housing</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--startindex-->
+                    </div>
+    </div>
+
+
+<!--stopindex-->
+<footer class="footer">
+    <div class="footer__wrapper container">
+        <div class="footer__sections">
+            <div class="footer__section">
+                <span class="footer__copy">
+                    &copy; 2023 Foley &amp; Lardner LLP<br />
+Attorney Advertisement.<br />
+Images of people may not be Foley personnel.
+                </span>
+            </div>
+            <div class="footer__section">
+                <span class="footer__copy">Follow Us</span>
+                <div class="footer__social-links">
+                        <a class="footer__social-link footer__social-link--footer-linkedin" href="https://www.linkedin.com/company/foley-&amp;-lardner-llp"></a>
+                                            <a class="footer__social-link footer__social-link--footer-twitter" href="https://twitter.com/FoleyandLardner"></a>
+                                            <a class="footer__social-link footer__social-link--footer-facebook" href="https://www.facebook.com/foleylardner"></a>
+                                            <a class="footer__social-link footer__social-link--footer-youtube" href="https://www.youtube.com/foleyandlardnerllp"></a>
+                                            <a class="footer__social-link footer__social-link--footer-instagram" href="https://www.instagram.com/foleyandlardner"></a>
+                </div>
+            </div>
+            <div class="footer__section">
+                    <a class='footer__link' href="/en/general/website-terms-of-use" target="_self" rel="">Terms of Use</a>
+                    <a class='footer__link' href="/en/general/foley-lardner-llp-website-privacy-notice" target="_self" rel="">Privacy Policy</a>
+                    <a class='footer__link' href="/en/general/foley-website-policy-center" target="_self" rel="">Policy Center</a>
+                    <a class='footer__link optanon-show-settings' href="javascript:void(0)" target="_self" rel="">Manage Cookie Preferences</a>
+                    <a class='footer__link' href="https://transparency-in-coverage.uhc.com/" target="_blank" rel="noreferrer">Health Plan Transparency in Coverage Rule</a>
+                    <a class='footer__link' href="/en/general/client-login" target="_self" rel="">Client Login</a>
+                    <a class='footer__link' href="/en/contact-us" target="_self" rel="">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--startindex-->
+
+        </div>
+
+        <!-- All Vue Inline Template Definitions -->
+        
+
+<script type="text/template" id="article-entity">
+    <div class="experience-list__article">
+        <h3 class="experience-list__article-title" v-if="displaytitle" v-html="article.Title"></h3>
+        <div class="experience-list__description body-copy" v-html="article.Content">
+        </div>
+        <div class="divider"></div>
+    </div>
+</script>
+
+
+
+<script type="text/template" id="insight-entity">
+    <div class="article-list__item">
+            <a v-if="article.Url" v-bind:href="article.Url" v-html="article.Title" class="article-list__title article-list__title--link"></a>
+            <p v-else v-html="article.Title" class="article-list__title"></p>
+        <div class="article-list__secondary-wrapper">
+            <div class="article-list__item-secondary" v-html="article.Date"></div>
+            <span v-show="article.Info" class="pipe-divider"></span>
+            <div v-show="article.Info" v-html="article.Info" class="article-list__item-secondary article-list__item-secondary--location"></div>
+        </div>
+        <div class="divider"></div>
+    </div>
+</script>
+
+
+
+<script type="text/template" id="blog-entity">
+    <div class="article-list__item">
+            <a v-if="article.Url" v-bind:href="article.Url" v-html="article.Title" class="article-list__title article-list__title--link"></a>
+            <p v-else v-html="article.Title" class="article-list__title"></p>
+        <div class="article-list__secondary-wrapper">
+            <div class="article-list__item-secondary" v-html="article.Date"></div>
+            <span v-show="article.Authors" class="pipe-divider"></span>
+            <div v-show="article.Authors" v-html="article.Authors" class="article-list__item-secondary article-list__item-secondary--blog-author"></div>
+        </div>
+        <div class="article-list__body">
+            <div v-show="article.Image" class="article-list__image-container">
+                <img class="article-list__image" v-bind:src="article.Image" />
+            </div>
+            <p class="article-list__text" v-html="article.Description"></p>
+        </div>
+        <div class="divider"></div>
+    </div>
+</script>
+
+
+
+        <script src="/assets/js/v-638162230844285855/bundle.js" type="text/javascript"></script>
+
+    </body>
+
+</html>
